@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @vivekganesan01
-- 👀 My interest is on DevOps/SRE best pratices, Currently focused on learning go-lang and developing multi-cloud deployment solutions
-- 🌱 I’m looking to collaborate on GO-Lang Projects
+- 👀 My interest is in DevOps/SRE best practices, Currently focused on learning go-lang and developing multi-cloud deployment solutions
+- 🌱 I’m looking to collaborate on Go-Lang Projects
 - 📫 reach me @ vivekganesan01@gmail.com
 
 <!---
